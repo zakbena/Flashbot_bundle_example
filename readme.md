@@ -13,8 +13,8 @@ This project provides a script to interact with the Flashbots network, enabling 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone git@github.com:zakbena/Flashbot_bundle_example.git
+   cd Flashbot_bundle_example
    ```
 
 2. Install dependencies:
